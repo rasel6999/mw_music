@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.naman14:app-theme-engine-0.5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/3dccbfc076602b7c15918a32b06d35ce/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/3dccbfc076602b7c15918a32b06d35ce/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "735342006171",
+    "firebase_url": "https://mw-music-player.firebaseio.com",
+    "project_id": "mw-music-player",
+    "storage_bucket": "mw-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735342006171:android:5e5de86af4691780",
+        "android_client_info": {
+          "package_name": "com.macwap.mw_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735342006171-nbj2er8abs0m9ehsmhvfkorqa64n10lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseUTDKSQ63BLuqFObR8dKT21hT9JN6MQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
